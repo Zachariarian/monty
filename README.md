@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-#My read me
-=======
-# monty
->>>>>>> first commit
+#My read me Monty
